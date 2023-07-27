@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Mr. Raju",
+        "date": "Mar 14",
+        "title": "How to get your first job as a self-taught programmer",
+        "tags": ["#beginners", "#programming"],
+        "time": 5,
+        "profilePicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQralwmMIHATJwwE2he4ovqyFZF7GQjYpmoPw&usqp=CAU",
+        "url": "https://img.freepik.com/free-photo/ai-site-helping-with-software-production_1268-21620.jpg?w=1380&t=st=1690373723~exp=1690374323~hmac=b8ae01f90741abf32777d7349a4faa8af75d82d4fe14aad8c360a8f62e5a0c63"
+    },
+    {
+        "id": 2,
+        "name": "Mr. Saju",
+        "date": "Mar 14",
+        "title": "How to heck your first job as a self-taught programmer",
+        "tags": ["#beginners", "#programming"],
+        "time": 7,
+        "profilePicture": "https://qph.cf2.quoracdn.net/main-thumb-43308671-200-djwcaactibxzektceulqzilfyxofkrjt.jpeg",
+        "url": "https://t4.ftcdn.net/jpg/06/12/42/73/240_F_612427354_gx7UthcCVCuu6hRJrlEyhzuoWAQEasGG.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Mr. Setara",
+        "date": "Mar 14",
+        "title": "How to get remote job as a self-taught programmer",
+        "tags": ["#beginners", "#programming"],
+        "time": 6,
+        "profilePicture": "https://qph.cf2.quoracdn.net/main-thumb-1558225683-200-gukudjhxpqhtueemdmjckkdogillwvhv.jpeg",
+        "url": "https://img.freepik.com/free-photo/coding-man_1098-18084.jpg?w=1380&t=st=1690373645~exp=1690374245~hmac=64bf0ce02a0ba9f8c2a7c7d0554eaf2259d67b6db1ccf489aa94e9bb5368bb13"
+    },
+    {
+        "id": 4,
+        "name": "Mina Mostofa",
+        "date": "Mar 14",
+        "title": "How to be freelancer in today's job as a self-taught programmer",
+        "tags": ["#beginners", "#programming"],
+        "time": 10,
+        "profilePicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtmCAsXNgZqQZsrIiE5vSiSI3tV7B8n_MLA&usqp=CAU",
+        "url": "https://img.freepik.com/free-photo/html-css-collage-concept_23-2150061955.jpg?w=1380&t=st=1690373678~exp=1690374278~hmac=2104e5cc07b39fcc2373059eda6a87a608ce2de5fc62f08f64d6286e6583b8b9"
+    }
+]

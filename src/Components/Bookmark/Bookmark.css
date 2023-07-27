@@ -1,0 +1,29 @@
+.bookmark {
+  position: sticky;
+  top: 150px;
+  margin-left: 24px;
+}
+.cardReadTime {
+  border-radius: 8px;
+  border: 1px solid #6047ec;
+  background: rgba(96, 71, 236, 0.1);
+  color: #6047ec;
+  font-size: 24px;
+  font-weight: 700;
+  padding: 20px 40px;
+}
+.cardReadTime p {
+  margin: 0;
+}
+.bookmark-content {
+  border-radius: 8px;
+  background: rgba(17, 17, 17, 0.05);
+  padding: 30px;
+  margin-top: 25px;
+}
+.bookmark-card {
+  margin: 16px 0;
+  padding: 20px;
+  border-radius: 8px;
+  background: #fff;
+}
